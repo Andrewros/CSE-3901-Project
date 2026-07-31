@@ -3,7 +3,6 @@ const questions = [
   "What is the main problem that you need to solve to win life?",
   "How do you become less emotional",
   "What is the biggest mistake that you make as a person?",
-  "What is the only way to learn something?",
   "Why should you write things down when reviewing them or learning them? This is for both this journal and anki.",
   "What is the best way to make sure that you have a lot of energy",
   "What are the main ways to win any game",
@@ -29,11 +28,10 @@ const questions = [
   "What should you assume in a negotiation if the other person seems like they are completely crazy"
 ];
 const answers = [
-  "You should listen to this daily because one of the main ways that humans actually believe things is through hearing them repeatedly. This is helpful propoganda. Just remembering things are true doesn't make you fully believe it.",
+  "You should listen to this daily because one of the main ways that humans actually believe things is through hearing them repeatedly. This is helpful propoganda. Just remembering things are true doesn't make you fully believe it. You learn things by thinking about them a lot and use the knowledge maybe by solving problems or just using it in general for social tips. This is why reading long books is more important than just reading a youtube summary. Why writing code by hand teaches more than AI generating a solution. Thinking about the answer will help you learn much better than just getting answers. This can be another way to use journaling.",
   "How as an irrational actor can you maximize your life.",
   "You can become less emotional by asking yourself How much this will really matter in 1 month? 1 year?",
   "You don't learn emotionally from past mistakes and tend to repeat them. Think about how many times you've hated weed anxiety and then done it again. Imagine how many times you get popcorn after remembering you don't love it anymore. For these things you are pushed to do them even though you don't like them/know they aren't good. Same with funny youtube videos. You need to have your logical mind have a greater control in what you do than your emotional mind.",
-  "The only way to really learn things is to think about them a lot and use the knowledge maybe by solving problems or just using it in general for social tips. This is why reading long books is more important than just reading a youtube summary. Why writing code by hand teaches more than AI generating a solution. Thinking about the answer will help you learn much better than just getting answers. This can be another way to use journaling.",
   "The reason you should write things down for review and learning is it gives you more time to think about the concept and it is a better test of whether you actually knew it.",
   "The best way to keep high energy is 1. Workout, 2. Take breaks that are not youtube and actually restorative. 3. Reduce sugar intake and eat healthy 4. Get 9 hours of sleep(at least til 2028 then you can try reduce but whenever you try now it doesn't work).",
   "1. Manipulate opponents model of reality. This is often done by making opponent think they alread won or already lost but there are other ways to do it. Patrick Jane uses it a lot to catch killers. 2. Attack the player not the game. Think about how Ayanokouji beat Ichinose in Year 2 volume 12 sometimes better opponents are easier to attack. 3. Prepare ahead of time by practicing",
