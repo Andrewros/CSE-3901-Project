@@ -1,5 +1,6 @@
 const questions = [
   "Why listen to this daily",
+  "What should your first thought be every morning",
   "How do you become less emotional?",
   "What is the only way you should learn about people",
   "What is one habit you need to be social",
@@ -35,6 +36,7 @@ const questions = [
 ];
 const answers = [
   "You should listen to this daily because one of the main ways that humans actually believe things is through hearing them repeatedly. This is helpful propoganda. Just remembering things are true doesn't make you fully believe it. You learn things by thinking about them a lot and use the knowledge maybe by solving problems or just using it in general for social tips. This is why reading long books is more important than just reading a youtube summary. Why writing code by hand teaches more than AI generating a solution. Thinking about the answer will help you learn much better than just getting answers. This can be another way to use journaling. Many notes that you think will be obvious are only obvious because consuming but once stop listening will not be obvious as you will stop thinking about them.",
+  "Think good things about yourself and how you are a beast and how you are gonna have a great day. The beginning of the day is always the worst so you need to hype yourself up even think about how bad it will be tomorrow the night before.",
   "You can become less emotional by asking yourself How much this will really matter in 1 month? 1 year?",
   "The only way you should learn about people is by experiencing and observing life and even thinking how you would react in a scehnario. The biggest problem is listening to online posts because 1. People who make the online posts are gonna target a very specific type of person and 2. When describing the same scenario different people will think of different things and they are also not thinking of people as human as they would in another scenario where you are being friendly.",
   "Talk to at least 5 different people each day. Start conversations and extend if possible. You need to cure the loneliness epidemic for people around you and it is caused by people being opposed to starting conversations with strangers. You feel lonely so other people definitely do too",
