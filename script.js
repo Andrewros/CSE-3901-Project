@@ -2,6 +2,7 @@ const questions = [
   "Why listen to this daily",
   "How do you become less emotional?",
   "What is the only way you should learn about people",
+  "What is one habit you need to be social",
   "Why should you look good?",
   "Which vices should you remove",
   "What is the most detrimental mistake that most people make?",
@@ -13,6 +14,7 @@ const questions = [
   "What is the most important fact about discomfort",
   "What is the best way to deal with discomfort",
   "Why is youtube a bad hobby",
+  "Why should you be frugal?",
   "What should you do with emotions that you don't want",
   "Why should you meditate daily?",
   "Why should you always journal/wait in free time",
@@ -32,9 +34,10 @@ const questions = [
   "What should you assume if someone else seems like they are completely crazy"
 ];
 const answers = [
-  "You should listen to this daily because one of the main ways that humans actually believe things is through hearing them repeatedly. This is helpful propoganda. Just remembering things are true doesn't make you fully believe it. You learn things by thinking about them a lot and use the knowledge maybe by solving problems or just using it in general for social tips. This is why reading long books is more important than just reading a youtube summary. Why writing code by hand teaches more than AI generating a solution. Thinking about the answer will help you learn much better than just getting answers. This can be another way to use journaling.",
+  "You should listen to this daily because one of the main ways that humans actually believe things is through hearing them repeatedly. This is helpful propoganda. Just remembering things are true doesn't make you fully believe it. You learn things by thinking about them a lot and use the knowledge maybe by solving problems or just using it in general for social tips. This is why reading long books is more important than just reading a youtube summary. Why writing code by hand teaches more than AI generating a solution. Thinking about the answer will help you learn much better than just getting answers. This can be another way to use journaling. Many notes that you think will be obvious are only obvious because consuming but once stop listening will not be obvious as you will stop thinking about them.",
   "You can become less emotional by asking yourself How much this will really matter in 1 month? 1 year?",
   "The only way you should learn about people is by experiencing and observing life and even thinking how you would react in a scehnario. The biggest problem is listening to online posts because 1. People who make the online posts are gonna target a very specific type of person and 2. When describing the same scenario different people will think of different things and they are also not thinking of people as human as they would in another scenario where you are being friendly.",
+  "Talk to at least 5 different people each day. Start conversations and extend if possible. You need to cure the loneliness epidemic for people around you and it is caused by people being opposed to starting conversations with strangers. You feel lonely so other people definitely do too",
   "You should look good because whenever you don't you care about and when you look good you stop caring and also don't think about the work. You should look good to be attractive and be proud of yourself and also so that you don't want to look good",
   "Remove any vices that you regret after consuming. A big one is smoking. You should also avoid getting drunk since you are starting to actually experience hangovers and bad for muscle gains.",
   "You don't learn emotionally from past mistakes and tend to repeat them. Think about how many times you've hated weed anxiety and then done it again. Imagine how many times you get popcorn after remembering you don't love it anymore. For these things you are pushed to do them even though you don't like them/know they aren't good. Same with funny youtube videos. You need to have your logical mind have a greater control in what you do than your emotional mind.",
@@ -46,6 +49,7 @@ const answers = [
   "Discomfort will always exist until you have momentum. Discomfort is proof that you are building discipline and getting better. A lot of the things that you are addicted to that I tell you to stop you continue because you are addicted like a drug addict. You should live in discomfort and accept it and no that it is never gonna go away until you perform the actions anyway no matter what you are overthinking. And you need to perform the actions. Comfort kills you. Momentum creates a god.",
   "The best way to handle discomfort is by remembering that many people including people you admire have gone through the same things if not worse. Remember in elementary school thinking about how Count Olaf made the Baudelaires run laps helped you run for longer. Moreover, you can also try to fake it and pretend you are in another emotional state and you often transform your emotional state just by pretending.",
   "Anything that is not gonna overstimulate your brain is a good habit. Youtube however are like a drug you are addicted to and aren't even happy while using. It messes with dopamine receptors and should be quit. If you sacrifice happiness for comfort you deserve neither and will lose both although journaling should be the default.",
+  "Any dollar you spend is gonna be worth over 2x in the future. Only spend money if you would be willing to spend 2x that amount of money for the good or service",
   "Accept that feeling. Acknowledge it as real and don't try to suppress it. It's kinda like negotiating with the emotion. You are meant to understand it but that doesn't mean you should let it control you. You really want to figure out why you are getting that urge and maybe fix that instead of thinking the urge is a bad thing as that is a part of you. What you resist will persist. If nervous talking to girl don't resist the fact that you are anxious just perform anyway and work with that nervousness since it's a superpower that will prevent you from saying something stupid.",
   "Meditation is incredibly important because it is one of the few ways to improve vertical thinking which is one of the pillars to being smart. It allows you to think through the consequences of actions even ones other people don't see.",
   "Journaling is important because it is used to improve lateral thinking and create ideas for more efficiency and living a better life. It is also a form of waiting since not memorable and this is important as you gain memory by waiting more as there are more things that have greater significance. If something significant is always happening it is no longer significant.",
