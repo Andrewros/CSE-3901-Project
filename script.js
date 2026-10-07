@@ -1,8 +1,8 @@
 const questions = [
   "Why listen to this daily",
   "What is the most important fallacy humans make in regards to thinking",
-  "What is the most important thing for you to train?",
   "What is the only thought that should enter your mind when deciding if you should perform an action?",
+  "What is the most important thing for you to train?",
   "Why should you be ok being disliked?",
   "What is the most important thing you need to remember in regards to sleeping",
   "How do you become less emotional?",
