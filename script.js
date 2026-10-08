@@ -1,4 +1,5 @@
 const questions = [
+  "What is your dream?",
   "Why listen to this daily",
   "What is the most important fallacy humans make in regards to thinking",
   "What is the only thought that should enter your mind when deciding if you should perform an action?",
@@ -41,6 +42,7 @@ const questions = [
   "What should you ask when someone does something surprising?"
 ];
 const answers = [
+  "Eliminate work and social anxiety from as many people as possible. Allow everyone to be as free as possible.",
   "You should listen to this daily because one of the main ways that humans actually believe things is through hearing them repeatedly. This is helpful propoganda. Just remembering things are true doesn't make you fully believe it. You learn things by thinking about them a lot and use the knowledge maybe by solving problems or just using it in general for social tips. This is why reading long books is more important than just reading a youtube summary. Why writing code by hand teaches more than AI generating a solution. Thinking about the answer will help you learn much better than just getting answers. This can be another way to use journaling. Many notes that you think will be obvious are only obvious because consuming but once stop listening will not be obvious as you will stop thinking about them.",
   "The fallacy people make when thinking is that everything needs to be in terms of probabilities and you should be maximizing EV. There is no way to maximize all scenarios and you will never know anything for certain. This sucks though since humans like things being definitive. But learn to be fine with uncertainty.",
   "Would the ideal version of you perform this action or not? Often you might need to journal about that for some things but if it would do it and if not don't do it. Another thing to consider for smaller parts of an action is ask 'Would you advise other people to do this thing'. Finally think of the full benefits and consquences of actions as if they were a habit. If eat candy a lot in situation will be ugly and not lose weight. If ask out girls consistently each girl you skip could have potentially been future girl in relationship that is what you are giving up whenever afraid. You only have finite chances to get the person you want so blow as few as possible.",
