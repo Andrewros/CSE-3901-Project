@@ -1,6 +1,7 @@
 const questions = [
   "What is your dream?",
   "Why listen to this daily",
+  "What is the only moral law that truly exists.",
   "What is the most important fallacy humans make in regards to thinking",
   "What is the only thought that should enter your mind when deciding if you should perform an action?",
   "What is the most important thing for you to train?",
